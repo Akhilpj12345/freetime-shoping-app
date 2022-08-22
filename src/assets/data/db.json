@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Men's Casual Solid Lycra Shirt",
+      "categoryId": 1,
+      "description": "Latest Men’s Half Sleeves Shirt",
+      "price": "1000",
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/NFBwnjk3/shirt-no2.jpg",
+      "rating": 4.4,
+      "review": 150,
+      "vendor_name": "Malabar Textiles",
+      "warranty": 1
+    },
+    {
+      "id": "2",
+      "productName": "earphone",
+      "categoryId": "2",
+      "description": "boat 121 headset",
+      "price": "1700",
+      "is_available": "yes",
+      "productImg": "https://i.postimg.cc/s2ZMgSQ6/the-earbud.webp",
+      "rating": "4.7",
+      "review": "250",
+      "vendor_name": "boat",
+      "warranty": 2
+    },
+    {
+      "id": "4",
+      "productName": "the diamond cut",
+      "categoryId": "3",
+      "description": "th new diamond ",
+      "price": "7200",
+      "is_available": "yes",
+      "productImg": "https://i.postimg.cc/KjTf74HJ/the-new-diamond.jpg",
+      "rating": "4.7",
+      "review": "250",
+      "vendor_name": "Malabar diamonds",
+      "warranty": 2
+    },
+    {
+      "id": "7",
+      "productName": "Men's holographic t-Shirt",
+      "categoryId": "1",
+      "description": "L Half Sleeves Shirt",
+      "price": "700",
+      "is_available": "yes",
+      "productImg": "https://i.postimg.cc/6QRQXXgF/shirt-no3.webp",
+      "rating": "4.7",
+      "review": "250",
+      "vendor_name": "booygman",
+      "warranty": 2
+    }
+  ]
+}
